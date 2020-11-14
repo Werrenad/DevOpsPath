@@ -3,7 +3,12 @@
 ### DevOpsStarter
 
 DevOps Prototype
-* Understanding DevOps by doing it :-)
+* Understanding DevOps by doing it :-)  
+Test
+hell
+
+Helloooo
+klappets ez? 
 
 ## Required Tools
 * Git (https://git-scm.com/)
